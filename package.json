@@ -1,0 +1,33 @@
+{
+  "name": "tea-sum",
+  "version": "1.1.7",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baunvb/tea-sum.git"
+  },
+  "keywords": [
+    "sum",
+    "tea",
+    "OSS project"
+  ],
+  "author": "baunvb",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.90.0",
+    "near-tic-tac-toe": "^1.0.0",
+    "tea-blockchain-vntd": "^0.1.0",
+    "tea-math": "^1.0.1",
+    "ui-shop-baunvb": "^1.1.1",
+    "inti25-web-tools": "1.0.0",
+    "nodegui-cold-wallet": "1.0.0",
+    "balance-apt": "1.0.0",
+    "mint-coin": "1.0.0",
+    "tea-hello-summer":"0.1.0",
+    "tea-sum-vntd":"0.1.0"
+  }
+}
